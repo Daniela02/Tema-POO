@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1521465293 source:d:\infomatica\poo\proiect1\main.cpp
+	<iostream>
+	"multime.h"
+	"pereche.h"
+	<fstream>
+
+1521380459 d:\infomatica\poo\proiect1\multime.h
+	<iostream>
+
+1521303205 source:c:\documente\poo\proiect1\main.cpp
+	<iostream>
+	"multime.h"
+	"pereche.h"
+
+1521303716 c:\documente\poo\proiect1\multime.h
+	<iostream>
+
+1521303242 c:\documente\poo\proiect1\pereche.h
+	<iostream>
+
+1521303319 source:c:\documente\poo\proiect1\pereche.cpp
+	<iostream>
+	"pereche.h"
+
+1521303929 source:c:\documente\poo\proiect1\multime.cpp
+	<iostream>
+	"multime.h"
+
+1521380496 d:\infomatica\poo\proiect1\pereche.h
+	<iostream>
+
+1521465391 source:d:\infomatica\poo\proiect1\pereche.cpp
+	<iostream>
+	"pereche.h"
+
+1521465429 source:d:\infomatica\poo\proiect1\multime.cpp
+	<iostream>
+	"multime.h"
+
+1521465527 source:d:\informatica\poo\proiect1\main.cpp
+	<iostream>
+	"multime.h"
+	"pereche.h"
+	<fstream>
+
+1521380459 d:\informatica\poo\proiect1\multime.h
+	<iostream>
+
+1521380496 d:\informatica\poo\proiect1\pereche.h
+	<iostream>
+
+1521465429 source:d:\informatica\poo\proiect1\multime.cpp
+	<iostream>
+	"multime.h"
+
+1521465391 source:d:\informatica\poo\proiect1\pereche.cpp
+	<iostream>
+	"pereche.h"
+
