@@ -102,6 +102,7 @@ multPerechi& multPerechi :: operator=(const multPerechi &M)
     if(v) delete v;
     nodP *d=new nodP;
     d=M.v;
+    v=NULL;
     n=M.n;
     for(int i=1;i<=n;i++)
     {

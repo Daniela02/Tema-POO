@@ -121,6 +121,7 @@ multime& multime :: operator=(const multime &M)
     if(v) delete v;
     nod *d=new nod;
     d=M.v;
+    v=NULL;
     n=M.n;
     for(int i=1;i<=n;i++)
     {

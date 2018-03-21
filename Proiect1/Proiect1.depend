@@ -38,7 +38,7 @@
 	<iostream>
 	"multime.h"
 
-1521465527 source:d:\informatica\poo\proiect1\main.cpp
+1521657784 source:d:\informatica\poo\proiect1\main.cpp
 	<iostream>
 	"multime.h"
 	"pereche.h"
@@ -50,11 +50,11 @@
 1521380496 d:\informatica\poo\proiect1\pereche.h
 	<iostream>
 
-1521465429 source:d:\informatica\poo\proiect1\multime.cpp
+1521657615 source:d:\informatica\poo\proiect1\multime.cpp
 	<iostream>
 	"multime.h"
 
-1521465391 source:d:\informatica\poo\proiect1\pereche.cpp
+1521657308 source:d:\informatica\poo\proiect1\pereche.cpp
 	<iostream>
 	"pereche.h"
 

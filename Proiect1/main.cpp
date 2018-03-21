@@ -30,18 +30,45 @@ multPerechi produsCartezian(multime A, multime B)
 }
 int main()
 {
-    multime A, B;
+    multime A, B, E;
     f>>A;
     A.transformare();
+    cout<<A;
     f>>B;
     B.transformare();
+    cout<<B;
+    E=(A+B);
+    cout<<"A+B\n"<<E;
+    E=(A*B);
+    cout<<"A*B\n"<<E;
+    E=(A-B);
+    cout<<"A-B\n"<<E;
+    bool x;
+    x=(A==B);
+    cout<<"A==B "<<x<<'\n';
+    x=(A!=B);
+    cout<<"A!=B "<<x<<'\n';
+    x=(A<B);
+    cout<<"A<B "<<x<<'\n';
+    x=(A<=B);
+    cout<<"A<=B "<<x<<'\n';
+    A=B;
+    cout<<A<<B<<'\n';
     multPerechi C, D;
     C=produsCartezian(A,B);
     D=produsCartezian(B,A);
     g<<C;
     g<<D;
-    //bool x=C<D;
-    //cout<<x;
+    x=(C<D);
+    cout<<"C<D "<<x<<'\n';
+    x=(C==D);
+    cout<<"C==D "<<x<<'\n';
+    x=(C!=D);
+    cout<<"C!=D "<<x<<'\n';
+    x=(C<=D);
+    cout<<"C<=D "<<x<<'\n';
+    C=D;
+    cout<<C<<D;
     f.close();
     g.close();
     return 0;
